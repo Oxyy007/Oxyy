@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "আপনাদের গ্রূপে অ্যাড করার জন্য খুব ধন্যবাদ ❤️🔥!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: `Hello Baby{userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} ❤️💋`
 		}
 	},
 
